@@ -4,7 +4,7 @@ baseURL = "leo-mao.github.io"
 
 contentdir    = "content" # required!!!
 layoutdir     = "layouts"
-publishdir    = "public"
+publishdir    = "dcocs"
 #staticDir     = "static"
 #archetypeDir  = "archetypes"
 #cacheDir = "/tmp"
