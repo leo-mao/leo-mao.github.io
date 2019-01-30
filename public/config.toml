@@ -1,0 +1,133 @@
+#mitleCaseStyle= "AP"
+title = "Mao的秘密花园"
+baseURL = "leo-mao.github.io"
+
+contentdir    = "content" # required!!!
+layoutdir     = "layouts"
+publishdir    = "public"
+#staticDir     = "static"
+#archetypeDir  = "archetypes"
+#cacheDir = "/tmp"
+i18nDir = "i18n"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "jane"
+
+
+hasCJKLanguage = true
+paginate = 10
+paginatePath = "page"
+rssLimit = 15
+RSSUri = "rss.xml"
+googleAnalytics = ""
+copyright = ""
+
+#[outputs]
+#home = [ "HTML", "RSS" ]
+#section = [ "HTML", "RSS"]
+
+# language support # en-us/ zh-cn/ de-de 
+defaultContentlanguage= "en"
+[language.en]
+  languageCode = "en"
+
+[author]
+  name = "Mao"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+#[[menu.main]]
+#  name = "Home"
+#  weight = 10
+#  identifier = "home"
+#  url = "/"
+[[menu.main]]
+  name = "Archives"
+  weight = 20
+  identifier = "archives"
+  url = "/post/"
+[[menu.main]]
+  name = "Tags"             
+  weight = 30
+  identifier = "tags"       
+  url = "/tags/"            
+[[menu.main]]               
+  name = "About"       
+  weight = 99               
+  identifier = "about" 
+  url = "/page/about/"      
+
+timeout  = 10000
+uglyURLS = false
+useModTimeAsFallback = true
+buildDrafts = false
+buildExpired = false
+buildFuture = false
+canonifyURLs = false
+cleanDestinationDir = false
+config = "config.toml"
+defaultContentLanguageInSubdir = true
+disableAliases = false
+disableHugoGeneratorInject = false
+disableKinds = []
+disableLiveRoad = false
+disablePathToLower = false
+enableGitInfo = false
+enableMissingTranslationPlaceholders = false
+footnoteAnchorPrefix = ""
+footnoteReturnLinkContents = ""
+forceSyncStatic = false
+ignoreCache = false
+ignoreFiles = []
+log = false
+logFile = ""
+newContentEditor = ""
+noChmod = false
+noTimes = false
+permalinks = ""
+pluralizeListTitles = true
+preserveTaxomonyNames = false
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+pygmentsOptions = ""
+pygmentsStyle = "monokai"
+pygmentsUseClasses = true
+relativeURLs = false
+removePathAccents = false
+SectionPagesMenu = ""
+stepAnalysis = false
+summaryLength = 100
+verbose = true
+veroseLog = false
+watch = true
+
+[taxonomies]
+  category = "categories"
+ # tag = "tags"
+
+[params]
+  author = "Mao"
+  description  = " Python, Java 和 C++爱好者,目前base杭州滨江"
+  since = "2019"
+  homeFullContent = false
+  rssFullContent = true
+
+  logoTitle = "Mao的秘密花园"
+  keywords = ["Python", "Java", "C++", "Machine Learning", "Vimer", "Git"]
+  dataFormatToUse = "2018-01-01"
+# Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+  toc = false
+  photoswipe = true
+  
+  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
+  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+
+  [params.social]                                         # 社交链接
+  a-email = "mailto:yang.mao ## stud.hs-emden-leer.de"
+  b-github = "https://github.com/leo-mao"
