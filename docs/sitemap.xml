@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="https://leo-mao.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://127.0.0.1:1313/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://leo-mao.github.io/page/about/</loc>
+    <loc>http://127.0.0.1:1313/about/</loc>
     <lastmod>2019-01-28T01:45:02+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://leo-mao.github.io/categories/</loc>
+    <loc>http://127.0.0.1:1313/post/2019-01-28-blog-opened/</loc>
+    <lastmod>2019-01-28T00:46:57+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://127.0.0.1:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://leo-mao.github.io/</loc>
-    <lastmod>2019-01-28T01:45:02+08:00</lastmod>
+    <loc>http://127.0.0.1:1313/post/</loc>
+    <lastmod>2019-01-28T00:46:57+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://leo-mao.github.io/page/</loc>
+    <loc>http://127.0.0.1:1313/</loc>
     <lastmod>2019-01-28T01:45:02+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>

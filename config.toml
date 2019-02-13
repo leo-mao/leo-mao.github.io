@@ -1,20 +1,19 @@
-#mitleCaseStyle= "AP"
-title = "Mao的秘密花园"
-baseURL = "https://leo-mao.github.io"
+baseURL = "http://127.0.0.1:1313/"
+#baseURL = "https://leo-mao.github.io"
 
+title = "mao's blog"
 contentdir    = "content" # required!!!
 layoutdir     = "layouts"
 publishdir    = "docs"
 #staticDir     = "static"
 #archetypeDir  = "archetypes"
 #cacheDir = "/tmp"
-i18nDir = "i18n"
+#i18nDir = "i18n"
+
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
 
-
-hasCJKLanguage = true
 paginate = 10
 paginatePath = "page"
 rssLimit = 15
@@ -28,6 +27,7 @@ copyright = ""
 
 # language support # en-us/ zh-cn/ de-de 
 defaultContentlanguage= "en"
+hasCJKLanguage = true
 [language.en]
   languageCode = "en"
 
@@ -46,22 +46,22 @@ defaultContentlanguage= "en"
 #  url = "/
 
 [[menu.main]]
-  name = "Archives"
+  name = "archives"
   weight = 20
   identifier = "archives"
   url = "/post/"
 
 [[menu.main]]
-  name = "Tags"             
+  name = "tags"             
   weight = 30
   identifier = "tags"       
   url = "/tags/"            
 
 [[menu.main]]               
-  name = "About"       
+  name = "about"       
   weight = 99               
   identifier = "about" 
-  url = "/page/about/"      
+  url = "/about/"      
 
 timeout  = 10000
 uglyURLS = false
@@ -106,6 +106,7 @@ summaryLength = 100
 verbose = true
 veroseLog = false
 watch = true
+moreMeta = true
 
 [taxonomies]
   category = "categories"
