@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: leo-mao.github.io/sitemap.xml
