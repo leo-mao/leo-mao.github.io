@@ -1,6 +1,6 @@
 #mitleCaseStyle= "AP"
 title = "Mao的秘密花园"
-baseURL = "leo-mao.github.io"
+baseURL = "https://leo-mao.github.io"
 
 contentdir    = "content" # required!!!
 layoutdir     = "layouts"
@@ -43,17 +43,20 @@ defaultContentlanguage= "en"
 #  name = "Home"
 #  weight = 10
 #  identifier = "home"
-#  url = "/"
+#  url = "/
+
 [[menu.main]]
   name = "Archives"
   weight = 20
   identifier = "archives"
   url = "/post/"
+
 [[menu.main]]
   name = "Tags"             
   weight = 30
   identifier = "tags"       
   url = "/tags/"            
+
 [[menu.main]]               
   name = "About"       
   weight = 99               
