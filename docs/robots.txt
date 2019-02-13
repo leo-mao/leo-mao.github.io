@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: leo-mao.github.io/sitemap.xml
+Sitemap: https://leo-mao.github.io/sitemap.xml
