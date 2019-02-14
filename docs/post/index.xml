@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on mao&#39;s blog</title>
-    <link>http://127.0.0.1:1313/post/</link>
+    <link>fix/post/</link>
     <description>Recent content in Posts on mao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 28 Jan 2019 00:46:57 +0800</lastBuildDate>
     
-	<atom:link href="http://127.0.0.1:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="fix/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>普天同庆，博客开张</title>
-      <link>http://127.0.0.1:1313/post/2019-01-28-blog-opened/</link>
+      <link>fix/post/2019-01-28-blog-opened/</link>
       <pubDate>Mon, 28 Jan 2019 00:46:57 +0800</pubDate>
       
-      <guid>http://127.0.0.1:1313/post/2019-01-28-blog-opened/</guid>
+      <guid>fix/post/2019-01-28-blog-opened/</guid>
       <description>登登登灯……本博客终于开张啦。自从2016年前后计划给自己建个博客之后这个想法一直就没了下文，直到18年的时候这个想法越发强烈（一定是年纪大</description>
     </item>
     

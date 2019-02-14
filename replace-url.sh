@@ -7,4 +7,5 @@ if [ ! -f ./config.toml ]; then
 fi
 
 # replacing url to $1
-sed "s|^baseURL = .*\"|baseURL = \"$1\"|" config.toml
+echo -e "URL Replacing\n"
+sed -i "s|^baseURL = .*\"|baseURL = \"$1\"|" config.toml
