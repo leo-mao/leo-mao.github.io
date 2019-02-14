@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://leo-mao.github.io"
 #baseURL = "https://leo-mao.github.io"
 
 title = "mao's blog"
