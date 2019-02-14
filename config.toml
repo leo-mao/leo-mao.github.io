@@ -1,10 +1,10 @@
-baseURL = "https://leo-mao.github.io"
+baseURL = "http://localhost:1313"
 #baseURL = "https://leo-mao.github.io"
 
 title = "mao's blog"
 contentdir    = "content" # required!!!
 layoutdir     = "layouts"
-publishdir    = "docs"
+publishdir    = "public"
 #staticDir     = "static"
 #archetypeDir  = "archetypes"
 #cacheDir = "/tmp"
