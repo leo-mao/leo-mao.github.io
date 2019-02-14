@@ -1,7 +1,7 @@
 baseURL = "https://leo-mao.github.io"
 #baseURL = "https://leo-mao.github.io"
 
-title = "mao's blog"
+title = "You, Celibate!"
 contentdir    = "content" # required!!!
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -119,7 +119,7 @@ moreMeta = true
   homeFullContent = false
   rssFullContent = true
 
-  logoTitle = "Mao的秘密花园"
+  logoTitle = "Celibate"
   keywords = ["Python", "Java", "C++", "Machine Learning", "Vimer", "Git"]
   dataFormatToUse = "2018-01-01"
 # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
