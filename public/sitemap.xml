@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2019-01-28T01:45:02+08:00</lastmod>
+    <lastmod>2019-02-18T05:53:02+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,15 +23,15 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-01-28T00:46:57+08:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2019-02-18T05:53:02+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2019-01-28T01:45:02+08:00</lastmod>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2019-01-28T00:46:57+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

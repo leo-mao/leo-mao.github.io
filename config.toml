@@ -1,7 +1,7 @@
 baseURL = "https://leo-mao.github.io"
 #baseURL = "https://leo-mao.github.io"
 
-title = "You, Celibate!"
+title = "Code Craft"
 contentdir    = "content" # required!!!
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -119,8 +119,8 @@ moreMeta = true
   homeFullContent = false
   rssFullContent = true
 
-  logoTitle = "Celibate"
-  keywords = ["Python", "Java", "C++", "Machine Learning", "Vimer", "Git"]
+  logoTitle = "Code Craft"
+  keywords = ["Network", "Linux", "Distribution" , "Python", "Java", "C++", "Vimmer", "Machine Learning", "Git"]
   dataFormatToUse = "2018-01-01"
 # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
   toc = false
@@ -133,5 +133,4 @@ moreMeta = true
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]                                         # 社交链接
-  a-email = "mailto:yang.mao ## stud.hs-emden-leer.de"
-  b-github = "https://github.com/leo-mao"
+  a-github = "https://github.com/leo-mao"

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>You, Celibate!</title>
+    <title>Code Craft</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on You, Celibate!</description>
+    <description>Recent content on Code Craft</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 28 Jan 2019 01:45:02 +0800</lastBuildDate>
     
@@ -19,7 +19,11 @@
       
         <description>&lt;h4 id=&#34;简介&#34;&gt;简介&lt;/h4&gt;
 
-&lt;p&gt;Python, Java 和 C++爱好者,目前base杭州滨江&lt;/p&gt;
+&lt;p&gt;对计算机网络、Linux操作系统和分布式有着特别好奇的脚本小子&lt;br /&gt;
+使用过Python, Java 和 C++等语言&lt;br /&gt;
+手握无数个烂尾项目&lt;br /&gt;
+Vimmer (自豪脸&lt;br /&gt;
+base&lt;em&gt;杭州滨江&lt;/em&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;经历&#34;&gt;经历&lt;/h4&gt;
 
@@ -27,7 +31,11 @@
 
 &lt;h4 id=&#34;大事记&#34;&gt;大事记&lt;/h4&gt;
 
-&lt;p&gt;2019年初博客开张&lt;/p&gt;</description>
+&lt;p&gt;2019年初博客开张&lt;/p&gt;
+
+&lt;h4 id=&#34;联系方式&#34;&gt;联系方式&lt;/h4&gt;
+
+&lt;p&gt;&lt;kbd&gt;yang.mao ## stud.hs-emden-leer.de&lt;/kbd&gt;&lt;/p&gt;</description>
       
     </item>
     
